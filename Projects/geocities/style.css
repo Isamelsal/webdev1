@@ -1,0 +1,41 @@
+audio{
+    position: fixed;
+    right: 0;
+    top: 5.2rem;
+  }
+  
+  marquee{
+    position: absolute;
+    background-color: teal;
+    color: white;
+    padding: 2rem;
+  }
+  
+  .goku{
+    position: absolute;
+    top: 6.5rem;
+  }
+  
+  .ssj3{
+    position: absolute;
+    right: 0;
+    top: 9rem;
+  }
+  
+  body{
+    min-height: 100vh;
+    margin: 0;
+    background-color: black;
+    background-image: url(https://web.archive.org/web/20091027005622/http://es.geocities.com/fpuritanos/goku.gif);
+  }
+  
+  .base{
+    position: absolute;
+    top: 12rem;
+  }
+  
+  footer{
+    color: white;
+    position: absolute;
+    bottom: 0rem;
+  }

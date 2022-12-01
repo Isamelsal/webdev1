@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    font-size: 50px;
+    color: red;
+    font-family: cursive;
+    text-shadow: 2px 4px darkblue;
+  }
+  
+  p {
+    font-family: cursive;
+    color: red;
+    font-size: 20px;
+    text-shadow: 2px 4px darkblue;
+  }
+  
