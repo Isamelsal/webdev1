@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+header{
+    font-family: 'Shadows Into Light';
+}
+
+img{
+    width: 30%;
+    display: block;
+    margin: 4rem 0;
+    max-width: 50rem;
+}
+  
+body{
+    background-color: pink;
+    font-family: 'Anonymous Pro';
+    color: darkred;
+    padding: 2rem;
+    margin: auto;
+}
+  
+  
+footer{
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
